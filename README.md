@@ -1,2 +1,2 @@
 # Algorithms-and-DS-in-C
-This is a self understanding of algorithms and data strcuture based on Primeagen video.
+This repository is a self-understanding of algorithms and data strcuture based on the Primeagen video.
