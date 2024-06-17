@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define SIZE 8
 
 
 int LinearSearch(int* b, int a[], int size);
